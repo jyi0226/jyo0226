@@ -104,7 +104,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyi_0226)](https://solved.ac/profile/jyi_0226#)
 
-![jyi0226's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jyi0226&show_icons=true&bg_color=1A1E27&title_color=27E2A4&icon_color=27E2A4&text_color=E5E7EB&border_color=27E2A4)
+![jyi0226's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyi0226&show_icons=true&bg_color=1A1E27&title_color=27E2A4&icon_color=27E2A4&text_color=E5E7EB&border_color=27E2A4)
 
 <br>
 
